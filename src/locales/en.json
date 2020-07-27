@@ -1,0 +1,56 @@
+{
+    "topLinkHome": "Home",
+    "topLinkHow": "How",
+    "topLinkTools": "Tools",
+    "topLinkJoin": "Join",
+    "topLinkTeam": "Team",
+    "topButton": "Sign Up!",
+
+    "homeTitle": "CliMate",
+    "homeSlogan": "Contribute to the Health of our Planet!",
+    "homeButton": "Explore...",
+
+    "howTitle": "How Does It Work?",
+    "howDescription": "Socially moderated challenges – geared towards fending off climate change – to earn karma points that can be transformed into benefits when doing climate-neutral activities.",
+    
+    "howCard1Title": "Social Moderation",
+    "howCard1Description": "There is no central authority, the community judges itself.",
+    "howCard2Title": "Proof Driven",
+    "howCard2Description": "A fulfilled deed must be proven by means of a proof type (e.g. photos, videos, integration with verified services, …).",
+    "howCard3Title": "Karma Based",
+    "howCard3Description": "Karma is meant as a point-based measure of advancement that can be transformed into benefits when purchasing ‘climate-neutral' products. Karma points are awarded for fulfilled deeds whose proof(s) was (/were) accepted by the community.",
+    "howCard4Title": "Super Fun!",
+    "howCard4Description": "Most active/trusty users rank up, earning the privilege to define challenges with higher karma rewards.",
+    "howCard5Title": "Fear Of Observed Failure",
+    "howCard5Description": "By knowing that others know about a pending deed, an unconscious obligation is created that motivates the user to fulfill the deed.",
+
+    "toolsTitle": "Tools",
+    "toolsDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit! Lorem ipsum dolor sit amet, consectetur adipiscing elit! Lorem ipsum dolor sit amet, consectetur adipiscing elit! Lorem ipsum dolor sit amet, consectetur adipiscing elit!",
+    
+    "toolsCard1Title": "Lorem Ipsum",
+    "toolsCard1Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit! Lorem ipsum dolor sit amet, consectetur adipiscing elit! Lorem ipsum dolor sit amet, consectetur adipiscing elit!",
+    "toolsCard2Title": "Lorem Ipsum",
+    "toolsCard2Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit! Lorem ipsum dolor sit amet, consectetur adipiscing elit! Lorem ipsum dolor sit amet, consectetur adipiscing elit!",
+    "toolsCard3Title": "Lorem Ipsum",
+    "toolsCard3Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit! Lorem ipsum dolor sit amet, consectetur adipiscing elit! Lorem ipsum dolor sit amet, consectetur adipiscing elit!",
+    "toolsCard4Title": "Lorem Ipsum",
+    "toolsCard4Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit! Lorem ipsum dolor sit amet, consectetur adipiscing elit! Lorem ipsum dolor sit amet, consectetur adipiscing elit!",
+    "toolsCard5Title": "Lorem Ipsum",
+    "toolsCard5Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit! Lorem ipsum dolor sit amet, consectetur adipiscing elit! Lorem ipsum dolor sit amet, consectetur adipiscing elit!",
+    
+    "toolsShowcase1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit!",
+    "toolsShowcase2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit!",
+
+    "joinTitle": "Join!",
+    "joinDescription": "CliMate is all about community and the health of our planet. Have fun challenging your friends and become a part of our CliMate family.",
+    "joinDownload": "CliMate App",
+
+    "teamTitle": "The CliMate Team",
+    "teamDexcription": "We are a team of young, highly motivated climate fanatics who want to improve the world challenge after challenge. Feel free to contact us any time soon if you have any questions. Happy to hear from you!",
+
+    "bottomLinkHome": "Home",
+    "bottomLinkHow": "How",
+    "bottomLinkTools": "Tools",
+    "bottomLinkJoin": "Join",
+    "bottomLinkTeam": "Team"
+}
