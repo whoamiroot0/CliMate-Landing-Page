@@ -79,9 +79,15 @@ export default {
   data () {
     return {
       breakpoints: {
-        800: {
+        1000: {
           visibleSlides: 2,
-          arrows: false
+          arrows: false,
+          bullets: true
+        },
+        700: {
+          visibleSlides: 1,
+          arrows: false,
+          bullets: false
         }
       }
     }
@@ -95,7 +101,7 @@ export default {
 }
 .slideshow-container {
   width: 80%;
-  max-width: 800px;
+  max-width: 850px;
 }
 .vueperslide {
   background-color: #FBFBFB;

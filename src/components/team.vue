@@ -76,7 +76,7 @@ export default {
 }
 .slideshow-container {
   width: 80%;
-  max-width: 800px;
+  max-width: 850px;
 }
 .slideshow-card-container1 {
   background-image: url(../assets/img/jonas_augsburger.png);
